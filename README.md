@@ -17,5 +17,5 @@ Make sure you have Cisco Packter tracer installed on your local machine (laptop,
 ### Want to Contribute?</br>
 Feel free to open an issue if you think there is any error, changes or addition required in this repo.
 Then make a PR and help everyone around who want to learn packet tracer. 
-Before proceeding you MUST read CONTRIBUTIONS.md
+Before proceeding you MUST read [CONTRIBUTIONS.md](https://github.com/thejaswin123/Cisco_Packet_Tracer_Practicals/blob/main/CONTRIBUTIONS.md)
 
